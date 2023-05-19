@@ -2,4 +2,4 @@
 
 ## Salvando alterações no Git
 
-*comando git push
+*aprendendo comando git push
